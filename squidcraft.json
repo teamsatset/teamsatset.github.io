@@ -1,9 +1,9 @@
 {
   "Gallon": [
     {
-	  "admob_inters": "ca-app-pub-9122316280315326/2542299555",
+	  "admob_inters": "ca-app-pub-9122316280315326/",
 	  "admob_inters_dua": "ca-app-pub-9122316280315326/",
-	  "admob_inters_tig": "ca-app-pub-9122316280315326/2542299555",
+	  "admob_inters_tig": "ca-app-pub-9122316280315326/",
 	  "admob_openAd": "ca-app-pub-9122316280315326/",
       "inter_first": 50000,
       "inter_repeat": 360000,
