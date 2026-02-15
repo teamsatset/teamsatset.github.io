@@ -1,16 +1,16 @@
 {
   "Gallon": [
     {
-	  "admob_inters": "ca-app-pub-9122316280315326/8408530447",
-	  "admob_inters_dua": "ca-app-pub-9122316280315326/8408530447",
-	  "admob_inters_tig": "ca-app-pub-9122316280315326/8408530447",
-	  "admob_openAd": "ca-app-pub-9122316280315326/9282428726",
+	  "admob_inters": "ca-app-pub-9122316280315326/",
+	  "admob_inters_dua": "ca-app-pub-9122316280315326/",
+	  "admob_inters_tig": "ca-app-pub-9122316280315326/",
+	  "admob_openAd": "ca-app-pub-9122316280315326/",
       "inter_first": 50000,
       "inter_repeat": 360000,
 	  "unity_inter": "Interstitial_Android",
-      "unity_games": "xxxxxxx",
+      "unity_games": "4932603",
       "first_unity_ads": 50000,
-      "repeat_unity_ads": 5000000,
+      "repeat_unity_ads": 400000,
 	  "latest_version": "1",
 	  "play_store_url": "https://play.google.com/store/apps/details?id=com.buygendev.ironcraft.supercrafting"
     }
