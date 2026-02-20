@@ -1,0 +1,18 @@
+{
+  "Gallon": [
+    {
+	  "admob_inters": "ca-app-pub-5100438264160728/",
+	  "admob_inters_dua": "ca-app-pub-5100438264160728/",
+	  "admob_inters_tig": "ca-app-pub-3940256099942544/close_world",
+	  "admob_openAd": "ca-app-pub-5100438264160728/",
+      "inter_first": 30000,
+      "inter_repeat": 360000,
+	  "unity_inter": "Interstitial_Android",
+      "unity_games": "xxxxxxx",
+      "first_unity_ads": 50000,
+      "repeat_unity_ads": 500000,
+	  "latest_version": "1",
+	  "play_store_url": "https://play.google.com/store/apps/details?id=com.buygendev.squidcraft.survivalrun"
+    }
+  ]
+}
