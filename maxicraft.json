@@ -1,10 +1,10 @@
 {
   "Gallon": [
     {
-	  "admob_inters": "ca-app-pub-5100438264160728/",
-	  "admob_inters_dua": "ca-app-pub-5100438264160728/",
+	  "admob_inters": "ca-app-pub-9122316280315326/9076259568",
+	  "admob_inters_dua": "ca-app-pub-9122316280315326/9076259568",
 	  "admob_inters_tig": "ca-app-pub-3940256099942544/close_world",
-	  "admob_openAd": "ca-app-pub-5100438264160728/",
+	  "admob_openAd": "ca-app-pub-9122316280315326/5652019871",
       "inter_first": 30000,
       "inter_repeat": 360000,
 	  "unity_inter": "Interstitial_Android",
